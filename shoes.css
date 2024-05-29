@@ -1,0 +1,81 @@
+nav{
+    display: flex;
+    padding-top: 2px;
+    justify-content: center;
+    padding-right: 125px;
+   
+}
+a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.images {float: left;
+    
+    height: 50px;
+    width: 70px;
+    padding-top: 10px;
+    padding-left: 50px;
+    border-radius: 2px
+
+}
+. {
+    box-sizing: border-box;
+    padding: 50px;
+}
+body{
+    background-color: black;
+    padding: 100px;
+    box-sizing: border-box;
+
+}
+button{
+    float: right;
+    border-radius: 10px;
+    border-style: none;
+}
+.btn{
+    color: black;
+}
+.butt{
+    padding-bottom: 90px;
+   margin: none;
+}
+button:hover{
+    background-color: bisque;
+}
+.container{
+    color: white;
+    padding: 10px;
+    display: flex;
+    background-color: rgb(22, 21, 21);
+    border-radius: 80px;
+    padding-left: 35px;
+    padding-bottom: 5px;
+    margin-top: 2px;
+    
+
+}
+.Adidas {
+    padding-top: 40px;
+    height: 45%;
+    width: 45%;
+    padding-right: 15px;
+    margin: none;
+}
+.Buy{
+    background-color: bisque;
+    color: black;
+    border-radius: 25px;
+}
+.Explore {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 25px;
+}
+.Buy:hover{
+    background-color: rgb(155, 131, 103);
+}
+.Explore:hover {
+background-color: rgb(66, 60, 60);
+}
